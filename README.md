@@ -17,7 +17,8 @@ npm i
 ```
 ## Usage
 ```
-npm run develop```
+npm run develop
+```
 
 ## License
 Distributed under the MIT Liscense. See https://opensource.org/license/mit and `LISCENSE.txt` for more information
